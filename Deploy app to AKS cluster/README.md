@@ -1,14 +1,9 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Provision AKS Cluster & Azure Container Registry using Terraform](#provison-aks-cluster--azure-container-registry-using-terraform)
 - [Deploy sample vote app to AKS cluster](#deploy-sample-vote-app-to-aks-cluster)
 - [Clean up resources](#clean-up-resources)
-
-## Introduction
-
-In this project, we explore the concept of Infrastructure-as-Code (IaC) and how Terraform can be utilized to provision AKS clusters on Microsoft Azure. IaC enables us to define infrastructure configurations as code, making it version-controlled, repeatable, and easier to collaborate on. Futhermore, we deploy a sample application to the AKS cluster to demonstrate the power of Infrastructure-as-Code. The source code of the sample application can be found here: https://github.com/Azure-Samples/azure-voting-app-redis
 
 ## Provison AKS Cluster & Azure Container Registry using Terraform
 
